@@ -2,7 +2,7 @@
 
 _**English Guide**_
 
-Thanks to these scripts you can always keep your Minecraft Server running on your system and you can access the console when you need it. The package includes three simple executable scripts on Ubuntu / Debian systems: start.sh, startserver.sh, console.sh
+Thanks to these scripts you can always keep your Minecraft Server running on your system and you can access the console when you need it. The package includes three simple executable scripts on Ubuntu/Debian systems: start.sh, startserver.sh, console.sh
 
 * start.sh - Create a "screen", which is an always active background process.
 
