@@ -1,7 +1,9 @@
-#MinecraftServerScript #IT/EN
+#MinecraftServerScript 
+#IT/EN
 Useful Scripts on Ubuntu/Debian for Minecraft Servers.
 
 English Guide
+
 Thanks to these scripts you can always keep your Minecraft Server running on your system and you can access the console when you need it.
 The package includes three simple executable scripts on Ubuntu / Debian systems: start.sh, startserver.sh, console.sh
 
