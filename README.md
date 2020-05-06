@@ -1,4 +1,4 @@
-# Useful Scripts on Ubuntu/Debian for Minecraft Servers
+# Useful sh Scripts on Ubuntu/Debian for Minecraft Servers
 **English/Italian** Guide.
 
 _**English Guide**_
